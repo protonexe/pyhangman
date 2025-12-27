@@ -1,6 +1,6 @@
 # Terminal Hangman with Persistent Leaderboard
 
-A classic Hangman game built in Python that features a dynamic scoring system and a persistent leaderboard to track player performance across sessions. Educational Project
+A classic Hangman game built in Python that features a dynamic scoring system and a persistent leaderboard to track player performance across sessions. **Educational Project**
 
 ##  Features
 * **Dynamic Word Loading:** Words are imported from a separate module to keep the core logic clean.
